@@ -20,15 +20,14 @@ All of the parts were designed in Autodesk Fusion 360 and the G-code files gener
 
 <img src ="Images/Fusion360.png">
 <img src ="Images/DPL.png", width="250" height="150"> <img src ="Images/Backplate + Adapter.png", width="250" height="150">
-
-<br>
 <img src ="Images/DPL_preview.jpg"  width="250" height="150">  <img src ="Images/Complete Assembly.jpg"  width="250" height="150">
 
 ## Preview
 On the left you can see the EduExo exoskeleton by [Auxivo AG](https://www.auxivo.com/eduexo-maker) with 1 DoF(degree of freedom). On the right, a parametrized 3 DoF exoskeleton designed with a unique shoulder mechanism based on this publication found [here](https://ieeexplore.ieee.org/abstract/document/8014156).<br>
 
 <img src = "Images/EduExo_1DoF.png" width= "250" height = "150"> <img src = "Images/Wearing_the_ParExo.jpg" width= "250" height = "150">
-A demon of the parametrized exoskeleton can be seen [here](https://youtube.com/shorts/W7swaqCZIws?feature=share).<br>
+<br>
+A demo of the parametrized exoskeleton can be seen [here](https://youtube.com/shorts/W7swaqCZIws?feature=share).<br>
 
 ## Software Application Preview
 Rhinoceros3D alone was unable to process pure mathematical data and produce models suitable
