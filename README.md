@@ -25,15 +25,15 @@ All of the parts were designed in Autodesk Fusion 360 and the G-code files gener
 ## Preview
 On the left you can see the EduExo exoskeleton by [Auxivo AG](https://www.auxivo.com/eduexo-maker) with 1 DoF(degree of freedom). On the right, a parametrized 3 DoF exoskeleton designed with a unique shoulder mechanism based on this publication found [here](https://ieeexplore.ieee.org/abstract/document/8014156).<br>
 
-<img src = "Images/EduExo_1DoF.png" width= "250" height = "150"> <img src = "Images/Wearing_the_ParExo.jpg" width= "250" height = "150">
+<img src = "Images/EduExo_1DoF.png" width= "350" height = "200"> <img src = "Images/Wearing_the_ParExo.jpg" width= "350" height = "200">
 <br>
 A demo of the parametrized exoskeleton can be seen [here](https://youtube.com/shorts/W7swaqCZIws?feature=share).<br>
 
 ## Software Application Preview
 Rhinoceros3D alone was unable to process pure mathematical data and produce models suitable
-for 3D printing.Threrefore Grasshopper, a plug-in for Rhino3D centered on parametric design and programmatically constructing and manipulating complicated geometries, including surfaces, meshes, and solids, was selected. The user interface was created independently using the Unity engine and is compatible with Windows, Linux, and Mac. You can find all relevant files here<br>
+for 3D printing.Threrefore Grasshopper, a plug-in for Rhino3D centered on parametric design and programmatically constructing and manipulating complicated geometries, including surfaces, meshes, and solids, was selected. The user interface was created independently using the Unity engine and is compatible with Windows, Linux, and Mac. You can find all relevant build files [here](www.google.com)<br>
 
-<img src ="Images/Rhino.png"  width="250" height="150">  <img src ="Images/Unity_UI_pre-alpha.png"  width="250" height="150"> 
+<img src ="Images/Rhino.png"  width="350" height="200">  <img src ="Images/Unity_UI_pre-alpha.png"  width="350" height="200"> 
 
 
 ## Acknowledgments 
