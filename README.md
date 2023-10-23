@@ -1,6 +1,6 @@
 # ParExo: Parametric Design Tool for Upper-body Exoskeletons
 
-<img src="images/ParExo_3DoF.png">
+<img src="Images/ParExo_3DoF.png">
 
 ## Overview
 As part of the Wearable Robotics Seminar offered by the Human-Computer Interaction Lab at Universität des Saarlandes, our team designed a parametric design tool for upper body exoskeletons.Firstly we designed an exoskeleton with multiple degrees of freedom, three active and one passive.Secondly, we have developed a design tool for exoskeletons with the aid of Rhinoceros, Grasshopper, and Unity Framework. Our tool that leverages pretrained Machine Learning frameworks such as MediaPipe Studio developed by Google as well as our own untrained models. Both were used for the parametrization of our exoskeleton with regards to estimating the dimensions of the various segments. It also allows the customization of pre-existing exoskeletons to best match with body dimensions of the end user based on the user's biometric input data e.g. height, weight, waistline, etc. <br>
