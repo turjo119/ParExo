@@ -31,7 +31,7 @@ A demo of the parametrized exoskeleton can be seen [here](https://youtube.com/sh
 
 ## Software Application Preview
 Rhinoceros3D alone was unable to process pure mathematical data and produce models suitable
-for 3D printing.Threrefore Grasshopper, a plug-in for Rhino3D centered on parametric design and programmatically constructing and manipulating complicated geometries, including surfaces, meshes, and solids, was selected. The user interface was created independently using the Unity engine and is compatible with Windows, Linux, and Mac.<br>
+for 3D printing.Threrefore Grasshopper, a plug-in for Rhino3D centered on parametric design and programmatically constructing and manipulating complicated geometries, including surfaces, meshes, and solids, was selected. The user interface was created independently using the Unity engine and is compatible with Windows, Linux, and Mac. You can find all relevant files here<br>
 
 <img src ="Images/Rhino.png"  width="250" height="150">  <img src ="Images/Unity_UI_pre-alpha.png"  width="250" height="150"> 
 
